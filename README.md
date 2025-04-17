@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Kishanprakash!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -10,9 +10,6 @@
 - ⚡ Fun fact: ...
 -->
 <!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+There+👋;I'm+Kishanprakash;Welcome+to+my+GitHub+Profile!" />
-</p>
 
 ---
 
